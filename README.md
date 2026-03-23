@@ -8,7 +8,7 @@ Este repositorio contiene la solución a la **Práctica N° 1**, un programa en 
 ## 📋 Especificaciones del Reto
 Aquí puedes ver la lógica y los requerimientos que implementé:
 
-![Infografía del Reto](NOMBRE_DE_TU_ARCHIVO.png)
+![Infografía del Reto](orden.png)
 
 ---
 
